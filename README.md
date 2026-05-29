@@ -392,6 +392,7 @@ logEach( '%f', x4 );
 ## See Also
 
 -   <span class="package-name">[`@stdlib/random-base/pareto-type1`][@stdlib/random/base/pareto-type1]</span><span class="delimiter">: </span><span class="description">Pareto (Type I) distributed pseudorandom numbers.</span>
+-   <span class="package-name">[`@stdlib/random-pareto-type1`][@stdlib/random/pareto-type1]</span><span class="delimiter">: </span><span class="description">generate pseudorandom numbers drawn from a Pareto (Type I) distribution.</span>
 
 </section>
 
@@ -476,6 +477,12 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [@stdlib/array/uint32]: https://github.com/stdlib-js/array-uint32
 
 [@stdlib/array/float64]: https://github.com/stdlib-js/array-float64
+
+<!-- <related-links> -->
+
+[@stdlib/random/pareto-type1]: https://github.com/stdlib-js/random-pareto-type1
+
+<!-- </related-links> -->
 
 </section>
 
